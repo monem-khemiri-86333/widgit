@@ -1,1 +1,2 @@
-feature1 implementation
+feature1 implementation 
+modification while remote branch is modified without pulling.
